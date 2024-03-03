@@ -1,1 +1,14 @@
+public class Solution {
+    public void Merge(int[] nums1, int m, int[] nums2, int n) {
+         int nums1[] = [1,2,3,0,0,0];
+         int nums2[] = [2,5,6];
+         int m = 3, n = 3;
 
+         int num3[];
+        //firstly lets separate first elements in this array from rest
+
+         for(i = 0; i < m; i++){
+             
+         }
+    }
+}
